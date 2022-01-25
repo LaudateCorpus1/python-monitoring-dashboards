@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.5.0](https://github.com/googleapis/python-monitoring-dashboards/compare/v2.4.1...v2.5.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#147](https://github.com/googleapis/python-monitoring-dashboards/issues/147)) ([eba999f](https://github.com/googleapis/python-monitoring-dashboards/commit/eba999f337ae657e4007a5beb68a340ff0f66655))
+
+
+### Bug Fixes
+
+* raise warning on import of google.monitoring.dashboard ([#128](https://github.com/googleapis/python-monitoring-dashboards/issues/128)) ([eff7597](https://github.com/googleapis/python-monitoring-dashboards/commit/eff759717f420aab7a77e8c855546ad3e1033b68))
+
 ### [2.4.1](https://www.github.com/googleapis/python-monitoring-dashboards/compare/v2.4.0...v2.4.1) (2021-11-01)
 
 
